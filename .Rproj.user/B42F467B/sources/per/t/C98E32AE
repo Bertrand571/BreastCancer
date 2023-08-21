@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588439866137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1999803592",
+    "id" : "C98E32AE",
+    "lastKnownWriteTime" : 1588439783,
+    "last_content_update" : 1588439783,
+    "path" : "~/RProjects/BreastCancer/BC.r",
+    "project_path" : "BC.r",
+    "properties" : {
+        "cursorPosition" : "189,0",
+        "scrollLine" : "155"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

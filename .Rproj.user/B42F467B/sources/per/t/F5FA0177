@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588440525194.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2211188090",
+    "id" : "F5FA0177",
+    "lastKnownWriteTime" : 1588439744,
+    "last_content_update" : 1588439744,
+    "path" : "~/RProjects/BreastCancer/BC.rmd",
+    "project_path" : "BC.rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
